@@ -33,10 +33,8 @@ Studying application development and web development
 
 <p align="left"> <a href="https://www.github.com/peatchatchawan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<a href="https://github.com/peatchatchawan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peatchatchawan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+### Flutter
 ### Signin page
 ![example image](/pic/signin.png)
 ### Signup page
@@ -51,8 +49,10 @@ Studying application development and web development
 ![example image](/pic/addstation.png)
 ### Show map page
 ![example image](/pic/map.png)
-### Show station page
+### Show station 1 page
 ![example image](/pic/station1.png)
+### Show station 2 page
+![example image](/pic/station2.png)
 
 
 ### ยังมี function เพิ่มเติมที่ยังทำไม่เสร็จและยังไม่สมบูรณ์เช่น การดูปริมาณมลพิษย้อนหลัง , การ export csv เป็นต้น
