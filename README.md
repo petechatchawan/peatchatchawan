@@ -32,28 +32,3 @@ Studying application development and web development
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/peatchatchawan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-
-### Flutter
-โปรเจ็คนี้เป็นโปรเจคสำหรับการมอนิเตอร์ค่าปริมาณฝุ่นต่างๆ เช่น พีเอ็ม อุณหภูมิ แสง และความชื้น และอื่นๆ โดยจะทำการวัดค่าจากอุปกรณ์ที่ทำการติดตั้งไว้คือ เซ็นเซอร์ต่างๆ แล้วทำการเชื่อมต่อกับ Firebase เพื่อทำการเก็บค่า และเราได้นำมาแสดงอย่างบนแอพพลิเคชั่นเพื่อมอนิเตอร์ค่าปรมิาณต่างๆ
-### Signin page
-![example image](/pic/signin.png)
-### Signup page
-![example image](/pic/signup.png)
-### Home admin page
-![example image](/pic/home_admin.png)
-### Home member page
-![example image](/pic/home_member.png)
-### Account settings page
-![example image](/pic/account.png)
-### Add station page
-![example image](/pic/addstation.png)
-### Show map page
-![example image](/pic/map.png)
-### Show station 1 page
-![example image](/pic/station1.png)
-### Show station 2 page
-![example image](/pic/station2.png)
-
-
-### ยังมี function เพิ่มเติมที่ยังทำไม่เสร็จและยังไม่สมบูรณ์เช่น การดูปริมาณมลพิษย้อนหลัง , การ export csv เป็นต้น
