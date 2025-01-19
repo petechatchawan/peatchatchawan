@@ -7,7 +7,7 @@ Student at KMUTNB
 Studying application development and web development
 
 * 🌍  I'm based in Nonthaburi
-* ✉️  You can contact me at [peat.chatchawan@gmail.com](mailto:peat.chatchawan@gmail.com)
+* ✉️  You can contact me at [pete.chatchawan@gmail.com](mailto:pete.chatchawan@gmail.com)
 * 🧠  I'm learning flutter
 
 ### Skills
