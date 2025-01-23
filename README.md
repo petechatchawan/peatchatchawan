@@ -32,3 +32,11 @@ Studying application development and web development
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/peatchatchawan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+
+
+### Github
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=petechatchawan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petechatchawan)](https://github.com/anuraghazra/github-readme-stats)
